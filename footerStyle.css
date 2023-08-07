@@ -1,0 +1,59 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    align-items: center;
+    padding: 2rem 4rem;
+    border-bottom: 0.6rem solid #111 ;
+}
+.footer .img{
+    width: 45%;
+    border: 2px solid white;
+}
+.footer .img img{
+    width: 100%;
+}
+.footer .talk{
+    width: 40%;
+}
+.footer .talk h5{
+    color: white;
+    font-size: 1.7rem;
+}
+.footer .talk h1{
+    color: white;
+    font-size: 3.3rem;
+    letter-spacing: 2px;
+    padding-bottom:10px;
+}
+
+.footer2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    align-items: center;
+    padding: 2rem 4rem;
+    border-bottom: 0.6rem solid #111 ;
+}
+.footer2 .img2{
+    width: 45%;
+    border: 2px solid rgba(255, 255, 255, 0.906);
+}
+.footer2 .img2 img{
+    width: 100%;
+}
+.footer2 .text2{
+    width: 40%;
+}
+.footer2 .text2 h2{
+    color: white;
+    font-size: 1.7rem;
+}
+.footer2 .text2 h1{
+    color: white;
+    font-size: 3.3rem;
+    letter-spacing: 2px;
+    padding-bottom:10px;
+} 
